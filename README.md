@@ -20,7 +20,7 @@ This is a personal visibility script. It is not an official Naukri tool. Use it 
 
 
 In Git Bash:
-1. Check gitbash
+**1. Check gitbash**
 ```bash
 python --version
 If Windows Store opens, Python is not installed. Go to step 2.
