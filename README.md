@@ -19,9 +19,8 @@ This is a personal visibility script. It is not an official Naukri tool. Use it 
 - Python 3.12
 
 
-
-1.In Git Bash:
-
+In Git Bash:
+1. Check gitbash
 ```bash
 python --version
 If Windows Store opens, Python is not installed. Go to step 2.
