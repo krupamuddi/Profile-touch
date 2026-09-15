@@ -18,9 +18,9 @@ This is a personal visibility script. It is not an official Naukri tool. Use it 
 - Windows Task Scheduler (already installed)
 - Python 3.12
 
-**1. Check Python**
 
-In Git Bash:
+
+1.In Git Bash:
 
 ```bash
 python --version
